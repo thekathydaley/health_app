@@ -1,0 +1,25 @@
+.calForm{
+    
+    height: 30vh;
+    width: 80vw;
+    font-size: 14px;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 5%;
+    margin-left: 2pt;
+
+}
+h2{
+    font-size: 12px;
+    justify-content: center;
+    align-content: center;
+}
+.btn{
+    border-radius: 20%;
+    background: rgb(156, 236, 236);
+    margin: 1%;
+    padding: 5pt;
+    font-style: bold;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+    font-family: 'KoHo', sans-serif;
+  }

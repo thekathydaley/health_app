@@ -1,0 +1,10 @@
+.cardBody{
+    background: rgb(156, 236, 236);
+    width: 20vw;
+    align-self: center;
+    justify-self: center;
+    border: solid 2pt black;
+    font-family: 'KoHo', sans-serif;
+     
+}
+
